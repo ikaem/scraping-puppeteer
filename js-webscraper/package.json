@@ -1,0 +1,23 @@
+{
+  "name": "js-webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "smash": "ts-node-dev src/smashing-mag.ts",
+    "digital": "ts-node-dev src/digital-ocean/index.ts",
+    "oxy1": "ts-node-dev src/oxylabs/example1.ts",
+    "india": "ts-node-dev src/india/index.ts",
+    "flavio": "ts-node-dev src/flavio/index.ts",
+    "err": "ts-node-dev src/error-handle/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.1.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.3.2"
+  }
+}

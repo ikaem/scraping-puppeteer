@@ -1,0 +1,5000 @@
+[
+  {
+    "country": "United States",
+    "cases": "33,416,364",
+    "death": "600,067",
+    "recovered": "No data"
+  },
+  {
+    "country": "India",
+    "cases": "27,729,247",
+    "death": "322,512",
+    "recovered": "25,178,011"
+  },
+  {
+    "country": "Brazil",
+    "cases": "16,471,600",
+    "death": "461,142",
+    "recovered": "14,869,696"
+  },
+  {
+    "country": "France",
+    "cases": "5,657,572",
+    "death": "109,387",
+    "recovered": "No data"
+  },
+  {
+    "country": "Turkey",
+    "cases": "5,235,978",
+    "death": "47,271",
+    "recovered": "5,094,279"
+  },
+  {
+    "country": "Russia",
+    "cases": "5,053,748",
+    "death": "120,807",
+    "recovered": "4,670,484"
+  },
+  {
+    "country": "United Kingdom",
+    "cases": "4,477,705",
+    "death": "127,768",
+    "recovered": "No data"
+  },
+  {
+    "country": "Italy",
+    "cases": "4,213,055",
+    "death": "126,002",
+    "recovered": "3,845,087"
+  },
+  {
+    "country": "Argentina",
+    "cases": "3,732,200",
+    "death": "77,108",
+    "recovered": "3,288,404"
+  },
+  {
+    "country": "Germany",
+    "cases": "3,695,283",
+    "death": "89,008",
+    "recovered": "3,471,139"
+  },
+  {
+    "country": "Spain",
+    "cases": "3,668,658",
+    "death": "79,905",
+    "recovered": "No data"
+  },
+  {
+    "country": "Colombia",
+    "cases": "3,342,567",
+    "death": "87,207",
+    "recovered": "3,121,888"
+  },
+  {
+    "country": "Iran",
+    "cases": "2,886,111",
+    "death": "79,568",
+    "recovered": "2,410,250"
+  },
+  {
+    "country": "Poland",
+    "cases": "2,871,371",
+    "death": "73,682",
+    "recovered": "2,636,675"
+  },
+  {
+    "country": "Mexico",
+    "cases": "2,408,778",
+    "death": "223,072",
+    "recovered": "1,923,744"
+  },
+  {
+    "country": "Ukraine",
+    "cases": "2,199,769",
+    "death": "50,388",
+    "recovered": "2,030,415"
+  },
+  {
+    "country": "Peru",
+    "cases": "1,947,555",
+    "death": "68,978",
+    "recovered": "1,897,522"
+  },
+  {
+    "country": "Indonesia",
+    "cases": "1,809,926",
+    "death": "50,262",
+    "recovered": "1,659,974"
+  },
+  {
+    "country": "Czech Republic",
+    "cases": "1,660,935",
+    "death": "30,101",
+    "recovered": "1,617,498"
+  },
+  {
+    "country": "South Africa",
+    "cases": "1,645,551",
+    "death": "56,293",
+    "recovered": "1,551,520"
+  },
+  {
+    "country": "Netherlands",
+    "cases": "1,644,699",
+    "death": "17,615",
+    "recovered": "No data"
+  },
+  {
+    "country": "Canada",
+    "cases": "1,375,742",
+    "death": "25,462",
+    "recovered": "1,311,651"
+  },
+  {
+    "country": "Chile",
+    "cases": "1,369,756",
+    "death": "29,047",
+    "recovered": "1,295,646"
+  },
+  {
+    "country": "Philippines",
+    "cases": "1,216,582",
+    "death": "20,722",
+    "recovered": "1,142,246"
+  },
+  {
+    "country": "Iraq",
+    "cases": "1,193,608",
+    "death": "16,334",
+    "recovered": "1,107,101"
+  },
+  {
+    "country": "Romania",
+    "cases": "1,077,426",
+    "death": "30,247",
+    "recovered": "1,038,539"
+  },
+  {
+    "country": "Sweden",
+    "cases": "1,068,473",
+    "death": "14,451",
+    "recovered": "No data"
+  },
+  {
+    "country": "Belgium",
+    "cases": "1,057,903",
+    "death": "24,910",
+    "recovered": "No data"
+  },
+  {
+    "country": "Pakistan",
+    "cases": "916,239",
+    "death": "20,680",
+    "recovered": "836,702"
+  },
+  {
+    "country": "Portugal",
+    "cases": "848,213",
+    "death": "17,023",
+    "recovered": "808,557"
+  },
+  {
+    "country": "Israel",
+    "cases": "839,392",
+    "death": "6,406",
+    "recovered": "832,455"
+  },
+  {
+    "country": "Hungary",
+    "cases": "804,032",
+    "death": "29,709",
+    "recovered": "692,248"
+  },
+  {
+    "country": "Bangladesh",
+    "cases": "796,343",
+    "death": "12,511",
+    "recovered": "736,221"
+  },
+  {
+    "country": "Japan",
+    "cases": "738,045",
+    "death": "12,819",
+    "recovered": "666,942"
+  },
+  {
+    "country": "Jordan",
+    "cases": "734,659",
+    "death": "9,436",
+    "recovered": "713,633"
+  },
+  {
+    "country": "Serbia",
+    "cases": "712,046",
+    "death": "6,844",
+    "recovered": "No data"
+  },
+  {
+    "country": "Switzerland",
+    "cases": "693,023",
+    "death": "10,253",
+    "recovered": "317,600"
+  },
+  {
+    "country": "Austria",
+    "cases": "644,207",
+    "death": "10,592",
+    "recovered": "627,672"
+  },
+  {
+    "country": "United Arab Emirates",
+    "cases": "567,263",
+    "death": "1,673",
+    "recovered": "547,008"
+  },
+  {
+    "country": "Malaysia",
+    "cases": "558,534",
+    "death": "2,650",
+    "recovered": "479,666"
+  },
+  {
+    "country": "Nepal",
+    "cases": "553,422",
+    "death": "7,163",
+    "recovered": "434,750"
+  },
+  {
+    "country": "Lebanon",
+    "cases": "539,888",
+    "death": "7,711",
+    "recovered": "516,530"
+  },
+  {
+    "country": "Morocco",
+    "cases": "518,868",
+    "death": "9,138",
+    "recovered": "506,740"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cases": "448,284",
+    "death": "7,334",
+    "recovered": "430,937"
+  },
+  {
+    "country": "Ecuador",
+    "cases": "424,741",
+    "death": "20,485",
+    "recovered": "366,425"
+  },
+  {
+    "country": "Bulgaria",
+    "cases": "418,221",
+    "death": "17,657",
+    "recovered": "380,359"
+  },
+  {
+    "country": "Greece",
+    "cases": "400,395",
+    "death": "12,024",
+    "recovered": "363,915"
+  },
+  {
+    "country": "Belarus",
+    "cases": "392,629",
+    "death": "2,831",
+    "recovered": "383,380"
+  },
+  {
+    "country": "Slovakia",
+    "cases": "389,440",
+    "death": "12,333",
+    "recovered": "No data"
+  },
+  {
+    "country": "Kazakhstan",
+    "cases": "383,595",
+    "death": "3,914",
+    "recovered": "351,086"
+  },
+  {
+    "country": "Panama",
+    "cases": "376,854",
+    "death": "6,365",
+    "recovered": "364,297"
+  },
+  {
+    "country": "Bolivia",
+    "cases": "364,570",
+    "death": "14,377",
+    "recovered": "289,809"
+  },
+  {
+    "country": "Croatia",
+    "cases": "355,955",
+    "death": "8,002",
+    "recovered": "345,396"
+  },
+  {
+    "country": "Paraguay",
+    "cases": "348,184",
+    "death": "8,892",
+    "recovered": "286,005"
+  },
+  {
+    "country": "Tunisia",
+    "cases": "343,374",
+    "death": "12,574",
+    "recovered": "301,273"
+  },
+  {
+    "country": "Georgia",
+    "cases": "342,880",
+    "death": "4,739",
+    "recovered": "325,016"
+  },
+  {
+    "country": "Azerbaijan",
+    "cases": "333,559",
+    "death": "4,896",
+    "recovered": "323,198"
+  },
+  {
+    "country": "Costa Rica",
+    "cases": "314,102",
+    "death": "3,963",
+    "recovered": "242,019"
+  },
+  {
+    "country": "Palestine",
+    "cases": "307,569",
+    "death": "3,489",
+    "recovered": "300,125"
+  },
+  {
+    "country": "Kuwait",
+    "cases": "306,717",
+    "death": "1,764",
+    "recovered": "291,521"
+  },
+  {
+    "country": "Dominican Republic",
+    "cases": "290,526",
+    "death": "3,628",
+    "recovered": "238,810"
+  },
+  {
+    "country": "Uruguay",
+    "cases": "282,198",
+    "death": "4,118",
+    "recovered": "242,661"
+  },
+  {
+    "country": "Denmark",
+    "cases": "279,434",
+    "death": "2,516",
+    "recovered": "263,618"
+  },
+  {
+    "country": "Lithuania",
+    "cases": "273,866",
+    "death": "4,245",
+    "recovered": "254,322"
+  },
+  {
+    "country": "Ethiopia",
+    "cases": "271,200",
+    "death": "4,143",
+    "recovered": "236,774"
+  },
+  {
+    "country": "Ireland",
+    "cases": "260,299",
+    "death": "4,941",
+    "recovered": "No data"
+  },
+  {
+    "country": "Egypt",
+    "cases": "259,540",
+    "death": "14,950",
+    "recovered": "190,254"
+  },
+  {
+    "country": "Moldova",
+    "cases": "255,060",
+    "death": "6,097",
+    "recovered": "247,240"
+  },
+  {
+    "country": "Guatemala",
+    "cases": "253,837",
+    "death": "8,121",
+    "recovered": "232,359"
+  },
+  {
+    "country": "Slovenia",
+    "cases": "253,493",
+    "death": "4,372",
+    "recovered": "No data"
+  },
+  {
+    "country": "Honduras",
+    "cases": "236,451",
+    "death": "6,284",
+    "recovered": "84,223"
+  },
+  {
+    "country": "Bahrain",
+    "cases": "232,425",
+    "death": "923",
+    "recovered": "203,429"
+  },
+  {
+    "country": "Venezuela",
+    "cases": "230,147",
+    "death": "2,595",
+    "recovered": "212,199"
+  },
+  {
+    "country": "Armenia",
+    "cases": "222,555",
+    "death": "4,428",
+    "recovered": "212,752"
+  },
+  {
+    "country": "Qatar",
+    "cases": "217,041",
+    "death": "554",
+    "recovered": "212,716"
+  },
+  {
+    "country": "Oman",
+    "cases": "213,784",
+    "death": "2,303",
+    "recovered": "197,080"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cases": "203,839",
+    "death": "9,211",
+    "recovered": "174,236"
+  },
+  {
+    "country": "Libya",
+    "cases": "184,815",
+    "death": "3,116",
+    "recovered": "171,279"
+  },
+  {
+    "country": "Sri Lanka",
+    "cases": "180,593",
+    "death": "1,363",
+    "recovered": "148,391"
+  },
+  {
+    "country": "Kenya",
+    "cases": "170,485",
+    "death": "3,141",
+    "recovered": "116,133"
+  },
+  {
+    "country": "Nigeria",
+    "cases": "166,254",
+    "death": "2,071",
+    "recovered": "156,546"
+  },
+  {
+    "country": "North Macedonia",
+    "cases": "155,169",
+    "death": "5,369",
+    "recovered": "147,301"
+  },
+  {
+    "country": "Thailand",
+    "cases": "149,779",
+    "death": "988",
+    "recovered": "102,311"
+  },
+  {
+    "country": "Myanmar",
+    "cases": "143,526",
+    "death": "3,216",
+    "recovered": "132,297"
+  },
+  {
+    "country": "Cuba",
+    "cases": "140,087",
+    "death": "943",
+    "recovered": "132,910"
+  },
+  {
+    "country": "South Korea",
+    "cases": "139,431",
+    "death": "1,951",
+    "recovered": "129,739"
+  },
+  {
+    "country": "Latvia",
+    "cases": "132,918",
+    "death": "2,370",
+    "recovered": "125,340"
+  },
+  {
+    "country": "Albania",
+    "cases": "132,297",
+    "death": "2,449",
+    "recovered": "129,215"
+  },
+  {
+    "country": "Estonia",
+    "cases": "129,424",
+    "death": "1,250",
+    "recovered": "122,918"
+  },
+  {
+    "country": "Algeria",
+    "cases": "127,926",
+    "death": "3,448",
+    "recovered": "89,040"
+  },
+  {
+    "country": "Norway",
+    "cases": "124,655",
+    "death": "783",
+    "recovered": "88,952"
+  },
+  {
+    "country": "Puerto Rico",
+    "cases": "121,878",
+    "death": "2,499",
+    "recovered": "No data"
+  },
+  {
+    "country": "Kosovo",
+    "cases": "107,382",
+    "death": "2,243",
+    "recovered": "102,652"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cases": "104,866",
+    "death": "1,797",
+    "recovered": "98,000"
+  },
+  {
+    "country": "Uzbekistan",
+    "cases": "99,580",
+    "death": "687",
+    "recovered": "95,250"
+  },
+  {
+    "country": "Montenegro",
+    "cases": "99,566",
+    "death": "1,583",
+    "recovered": "97,090"
+  },
+  {
+    "country": "Zambia",
+    "cases": "94,751",
+    "death": "1,276",
+    "recovered": "91,594"
+  },
+  {
+    "country": "Ghana",
+    "cases": "93,775",
+    "death": "784",
+    "recovered": "91,853"
+  },
+  {
+    "country": "Finland",
+    "cases": "92,244",
+    "death": "948",
+    "recovered": "31,000"
+  },
+  {
+    "country": "China",
+    "cases": "91,061",
+    "death": "4,636",
+    "recovered": "86,107"
+  },
+  {
+    "country": "Cameroon",
+    "cases": "77,982",
+    "death": "1,270",
+    "recovered": "57,008"
+  },
+  {
+    "country": "El Salvador",
+    "cases": "73,236",
+    "death": "2,241",
+    "recovered": "68,408"
+  },
+  {
+    "country": "Cyprus",
+    "cases": "72,159",
+    "death": "357",
+    "recovered": "No data"
+  },
+  {
+    "country": "Afghanistan",
+    "cases": "70,761",
+    "death": "2,919",
+    "recovered": "57,281"
+  },
+  {
+    "country": "Mozambique",
+    "cases": "70,697",
+    "death": "835",
+    "recovered": "69,232"
+  },
+  {
+    "country": "Luxembourg",
+    "cases": "69,830",
+    "death": "814",
+    "recovered": "67,993"
+  },
+  {
+    "country": "Singapore",
+    "cases": "62,003",
+    "death": "32",
+    "recovered": "61,423"
+  },
+  {
+    "country": "Maldives",
+    "cases": "61,844",
+    "death": "156",
+    "recovered": "36,588"
+  },
+  {
+    "country": "Mongolia",
+    "cases": "56,621",
+    "death": "268",
+    "recovered": "49,320"
+  },
+  {
+    "country": "Namibia",
+    "cases": "54,659",
+    "death": "818",
+    "recovered": "50,241"
+  },
+  {
+    "country": "Botswana",
+    "cases": "52,865",
+    "death": "809",
+    "recovered": "49,641"
+  },
+  {
+    "country": "Transnistria",
+    "cases": "49,186",
+    "death": "1,192",
+    "recovered": "47,510"
+  },
+  {
+    "country": "Jamaica",
+    "cases": "47,899",
+    "death": "912",
+    "recovered": "23,852"
+  },
+  {
+    "country": "Ivory Coast",
+    "cases": "47,195",
+    "death": "303",
+    "recovered": "46,591"
+  },
+  {
+    "country": "Uganda",
+    "cases": "45,231",
+    "death": "361",
+    "recovered": "43,401"
+  },
+  {
+    "country": "Senegal",
+    "cases": "41,296",
+    "death": "1,138",
+    "recovered": "39,932"
+  },
+  {
+    "country": "Madagascar",
+    "cases": "41,102",
+    "death": "822",
+    "recovered": "39,101"
+  },
+  {
+    "country": "Zimbabwe",
+    "cases": "38,918",
+    "death": "1,592",
+    "recovered": "36,563"
+  },
+  {
+    "country": "Donetsk PR",
+    "cases": "38,734",
+    "death": "2,904",
+    "recovered": "31,401"
+  },
+  {
+    "country": "Sudan",
+    "cases": "35,289",
+    "death": "2,600",
+    "recovered": "27,949"
+  },
+  {
+    "country": "Malawi",
+    "cases": "34,329",
+    "death": "1,154",
+    "recovered": "32,603"
+  },
+  {
+    "country": "Angola",
+    "cases": "33,944",
+    "death": "749",
+    "recovered": "27,577"
+  },
+  {
+    "country": "DR Congo",
+    "cases": "31,416",
+    "death": "782",
+    "recovered": "27,665"
+  },
+  {
+    "country": "Malta",
+    "cases": "30,529",
+    "death": "419",
+    "recovered": "30,043"
+  },
+  {
+    "country": "Cape Verde",
+    "cases": "30,273",
+    "death": "263",
+    "recovered": "28,320"
+  },
+  {
+    "country": "Australia",
+    "cases": "30,083",
+    "death": "910",
+    "recovered": "No data"
+  },
+  {
+    "country": "Cambodia",
+    "cases": "28,825",
+    "death": "203",
+    "recovered": "21,315"
+  },
+  {
+    "country": "Rwanda",
+    "cases": "26,878",
+    "death": "352",
+    "recovered": "25,542"
+  },
+  {
+    "country": "Gabon",
+    "cases": "24,365",
+    "death": "150",
+    "recovered": "21,791"
+  },
+  {
+    "country": "Syria",
+    "cases": "24,315",
+    "death": "1,750",
+    "recovered": "21,577"
+  },
+  {
+    "country": "Guinea",
+    "cases": "23,110",
+    "death": "161",
+    "recovered": "20,840"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cases": "22,670",
+    "death": "458",
+    "recovered": "12,970"
+  },
+  {
+    "country": "Mauritania",
+    "cases": "19,407",
+    "death": "462",
+    "recovered": "18,403"
+  },
+  {
+    "country": "French Polynesia",
+    "cases": "18,860",
+    "death": "142",
+    "recovered": "18,658"
+  },
+  {
+    "country": "Eswatini",
+    "cases": "18,589",
+    "death": "672",
+    "recovered": "17,861"
+  },
+  {
+    "country": "Guyana",
+    "cases": "16,822",
+    "death": "382",
+    "recovered": "14,468"
+  },
+  {
+    "country": "Papua New Guinea",
+    "cases": "15,415",
+    "death": "162",
+    "recovered": "14,343"
+  },
+  {
+    "country": "Abkhazia",
+    "cases": "15,292",
+    "death": "230",
+    "recovered": "14,589"
+  },
+  {
+    "country": "Somalia",
+    "cases": "14,624",
+    "death": "759",
+    "recovered": "6,415"
+  },
+  {
+    "country": "Suriname",
+    "cases": "14,305",
+    "death": "282",
+    "recovered": "11,333"
+  },
+  {
+    "country": "Mali",
+    "cases": "14,259",
+    "death": "514",
+    "recovered": "9,523"
+  },
+  {
+    "country": "Haiti",
+    "cases": "14,258",
+    "death": "307",
+    "recovered": "12,528"
+  },
+  {
+    "country": "Tajikistan",
+    "cases": "13,714",
+    "death": "91",
+    "recovered": "13,218"
+  },
+  {
+    "country": "Andorra",
+    "cases": "13,693",
+    "death": "127",
+    "recovered": "13,416"
+  },
+  {
+    "country": "Togo",
+    "cases": "13,432",
+    "death": "125",
+    "recovered": "12,644"
+  },
+  {
+    "country": "Burkina Faso",
+    "cases": "13,424",
+    "death": "166",
+    "recovered": "13,248"
+  },
+  {
+    "country": "Belize",
+    "cases": "12,791",
+    "death": "324",
+    "recovered": "12,378"
+  },
+  {
+    "country": "Curaçao",
+    "cases": "12,271",
+    "death": "122",
+    "recovered": "12,121"
+  },
+  {
+    "country": "Hong Kong",
+    "cases": "11,838",
+    "death": "210",
+    "recovered": "11,561"
+  },
+  {
+    "country": "Congo",
+    "cases": "11,658",
+    "death": "153",
+    "recovered": "8,208"
+  },
+  {
+    "country": "Bahamas",
+    "cases": "11,745",
+    "death": "229",
+    "recovered": "10,642"
+  },
+  {
+    "country": "Djibouti",
+    "cases": "11,521",
+    "death": "154",
+    "recovered": "11,361"
+  },
+  {
+    "country": "Seychelles",
+    "cases": "11,145",
+    "death": "40",
+    "recovered": "9,936"
+  },
+  {
+    "country": "Aruba",
+    "cases": "10,974",
+    "death": "107",
+    "recovered": "10,803"
+  },
+  {
+    "country": "Lesotho",
+    "cases": "10,825",
+    "death": "326",
+    "recovered": "6,434"
+  },
+  {
+    "country": "South Sudan",
+    "cases": "10,688",
+    "death": "115",
+    "recovered": "10,514"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cases": "8,529",
+    "death": "118",
+    "recovered": "8,146"
+  },
+  {
+    "country": "Guam",
+    "cases": "8,156",
+    "death": "139",
+    "recovered": "7,962"
+  },
+  {
+    "country": "Benin",
+    "cases": "8,025",
+    "death": "101",
+    "recovered": "7,893"
+  },
+  {
+    "country": "Taiwan",
+    "cases": "7,806",
+    "death": "99",
+    "recovered": "1,133"
+  },
+  {
+    "country": "Nicaragua",
+    "cases": "7,324",
+    "death": "186",
+    "recovered": "No data"
+  },
+  {
+    "country": "Northern Cyprus",
+    "cases": "7,139",
+    "death": "33",
+    "recovered": "6,825"
+  },
+  {
+    "country": "Central African Republic",
+    "cases": "7,085",
+    "death": "98",
+    "recovered": "5,112"
+  },
+  {
+    "country": "Yemen",
+    "cases": "6,731",
+    "death": "1,319",
+    "recovered": "3,399"
+  },
+  {
+    "country": "Vietnam",
+    "cases": "6,713",
+    "death": "47",
+    "recovered": "2,896"
+  },
+  {
+    "country": "East Timor",
+    "cases": "6,622",
+    "death": "15",
+    "recovered": "3,915"
+  },
+  {
+    "country": "Iceland",
+    "cases": "6,576",
+    "death": "30",
+    "recovered": "6,505"
+  },
+  {
+    "country": "The Gambia",
+    "cases": "5,990",
+    "death": "178",
+    "recovered": "5,767"
+  },
+  {
+    "country": "Niger",
+    "cases": "5,409",
+    "death": "192",
+    "recovered": "5,080"
+  },
+  {
+    "country": "San Marino",
+    "cases": "5,089",
+    "death": "90",
+    "recovered": "4,995"
+  },
+  {
+    "country": "Saint Lucia",
+    "cases": "5,035",
+    "death": "77",
+    "recovered": "4,772"
+  },
+  {
+    "country": "Chad",
+    "cases": "4,928",
+    "death": "173",
+    "recovered": "4,742"
+  },
+  {
+    "country": "Burundi",
+    "cases": "4,715",
+    "death": "6",
+    "recovered": "773"
+  },
+  {
+    "country": "Luhansk PR",
+    "cases": "4,698",
+    "death": "435",
+    "recovered": "4,097"
+  },
+  {
+    "country": "Somaliland",
+    "cases": "4,608",
+    "death": "311",
+    "recovered": "3,899"
+  },
+  {
+    "country": "Gibraltar",
+    "cases": "4,293",
+    "death": "94",
+    "recovered": "4,192"
+  },
+  {
+    "country": "Sierra Leone",
+    "cases": "4,140",
+    "death": "79",
+    "recovered": "3,128"
+  },
+  {
+    "country": "Eritrea",
+    "cases": "4,061",
+    "death": "14",
+    "recovered": "3,812"
+  },
+  {
+    "country": "Barbados",
+    "cases": "4,009",
+    "death": "47",
+    "recovered": "3,922"
+  },
+  {
+    "country": "Comoros",
+    "cases": "3,879",
+    "death": "146",
+    "recovered": "3,717"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cases": "3,751",
+    "death": "68",
+    "recovered": "3,493"
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "cases": "3,383",
+    "death": "27",
+    "recovered": "3,266"
+  },
+  {
+    "country": "South Ossetia",
+    "cases": "3,339",
+    "death": "60+",
+    "recovered": "3,198"
+  },
+  {
+    "country": "Jersey",
+    "cases": "3,243",
+    "death": "69",
+    "recovered": "3,177"
+  },
+  {
+    "country": "Liechtenstein",
+    "cases": "3,008",
+    "death": "58",
+    "recovered": "2,929"
+  },
+  {
+    "country": "Artsakh",
+    "cases": "2,751",
+    "death": "31",
+    "recovered": "337"
+  },
+  {
+    "country": "Monaco",
+    "cases": "2,503",
+    "death": "32",
+    "recovered": "2,461"
+  },
+  {
+    "country": "Bermuda",
+    "cases": "2,491",
+    "death": "32",
+    "recovered": "2,428"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "cases": "2,412",
+    "death": "17",
+    "recovered": "2,381"
+  },
+  {
+    "country": "Sint Maarten",
+    "cases": "2,411",
+    "death": "28",
+    "recovered": "2,307"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "cases": "2,345",
+    "death": "37",
+    "recovered": "2,291"
+  },
+  {
+    "country": "New Zealand",
+    "cases": "2,314",
+    "death": "26",
+    "recovered": "2,265"
+  },
+  {
+    "country": "Liberia",
+    "cases": "2,179",
+    "death": "86",
+    "recovered": "2,033"
+  },
+  {
+    "country": "Saint Vincent and The Grenadines",
+    "cases": "2,006",
+    "death": "12",
+    "recovered": "1,831"
+  },
+  {
+    "country": "Laos",
+    "cases": "1,908",
+    "death": "3",
+    "recovered": "1,402"
+  },
+  {
+    "country": "Bhutan",
+    "cases": "1,603",
+    "death": "1",
+    "recovered": "1,241"
+  },
+  {
+    "country": "Isle of Man",
+    "cases": "1,592",
+    "death": "29",
+    "recovered": "1,561"
+  },
+  {
+    "country": "Bonaire",
+    "cases": "1,586",
+    "death": "17",
+    "recovered": "1,549"
+  },
+  {
+    "country": "Mauritius",
+    "cases": "1,363",
+    "death": "17",
+    "recovered": "1,183"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "cases": "1,258",
+    "death": "42",
+    "recovered": "1,206"
+  },
+  {
+    "country": "USS Theodore Roosevelt",
+    "cases": "1,102",
+    "death": "1",
+    "recovered": "751"
+  },
+  {
+    "country": "Charles de Gaulle",
+    "cases": "1,081",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guernsey",
+    "cases": "822",
+    "death": "14",
+    "recovered": "808"
+  },
+  {
+    "country": "Sahrawi Arab DR",
+    "cases": "732",
+    "death": "42",
+    "recovered": "649"
+  },
+  {
+    "country": "Diamond Princess",
+    "cases": "712",
+    "death": "14",
+    "recovered": "698"
+  },
+  {
+    "country": "Faroe Islands",
+    "cases": "712",
+    "death": "1",
+    "recovered": "669"
+  },
+  {
+    "country": "Cayman Islands",
+    "cases": "581",
+    "death": "2",
+    "recovered": "567"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "cases": "445",
+    "death": "7",
+    "recovered": "438"
+  },
+  {
+    "country": "Fiji",
+    "cases": "360",
+    "death": "4",
+    "recovered": "161"
+  },
+  {
+    "country": "British Virgin Islands",
+    "cases": "284",
+    "death": "1",
+    "recovered": "282"
+  },
+  {
+    "country": "Brunei",
+    "cases": "240",
+    "death": "3",
+    "recovered": "228"
+  },
+  {
+    "country": "Dominica",
+    "cases": "188",
+    "death": "0",
+    "recovered": "172"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "cases": "183",
+    "death": "2",
+    "recovered": "32"
+  },
+  {
+    "country": "Grenada",
+    "cases": "160",
+    "death": "1",
+    "recovered": "158"
+  },
+  {
+    "country": "Costa Atlantica",
+    "cases": "148",
+    "death": "0",
+    "recovered": "148"
+  },
+  {
+    "country": "Greg Mortimer",
+    "cases": "128",
+    "death": "1",
+    "recovered": "No data"
+  },
+  {
+    "country": "New Caledonia",
+    "cases": "128",
+    "death": "0",
+    "recovered": "30"
+  },
+  {
+    "country": "Anguilla",
+    "cases": "109",
+    "death": "0",
+    "recovered": "109"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "cases": "68",
+    "death": "0",
+    "recovered": "45"
+  },
+  {
+    "country": "Falkland Islands",
+    "cases": "63",
+    "death": "0",
+    "recovered": "63"
+  },
+  {
+    "country": "Antarctica",
+    "cases": "58",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Macau",
+    "cases": "51",
+    "death": "0",
+    "recovered": "49"
+  },
+  {
+    "country": "Greenland",
+    "cases": "37",
+    "death": "0",
+    "recovered": "33"
+  },
+  {
+    "country": "Vatican City",
+    "cases": "29",
+    "death": "0",
+    "recovered": "27"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "cases": "25",
+    "death": "0",
+    "recovered": "25"
+  },
+  {
+    "country": "Montserrat",
+    "cases": "20",
+    "death": "1",
+    "recovered": "18"
+  },
+  {
+    "country": "Sint Eustatius",
+    "cases": "20",
+    "death": "0",
+    "recovered": "20"
+  },
+  {
+    "country": "Solomon Islands",
+    "cases": "20",
+    "death": "0",
+    "recovered": "18"
+  },
+  {
+    "country": "MS Zaandam",
+    "cases": "13",
+    "death": "4",
+    "recovered": "No data"
+  },
+  {
+    "country": "Coral Princess",
+    "cases": "12",
+    "death": "3",
+    "recovered": "No data"
+  },
+  {
+    "country": "SeaDream I",
+    "cases": "9",
+    "death": "0",
+    "recovered": "No data"
+  },
+  {
+    "country": "HNLMS Dolfijn",
+    "cases": "8",
+    "death": "0",
+    "recovered": "8"
+  },
+  {
+    "country": "Saba",
+    "cases": "7",
+    "death": "0",
+    "recovered": "7"
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "cases": "7",
+    "death": "0",
+    "recovered": "7"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "cases": "5",
+    "death": "0",
+    "recovered": "2"
+  },
+  {
+    "country": "Marshall Islands",
+    "cases": "4",
+    "death": "0",
+    "recovered": "4"
+  },
+  {
+    "country": "American Samoa",
+    "cases": "4",
+    "death": "0",
+    "recovered": "3"
+  },
+  {
+    "country": "Samoa",
+    "cases": "4",
+    "death": "0",
+    "recovered": "2"
+  },
+  {
+    "country": "Vanuatu",
+    "cases": "3",
+    "death": "0",
+    "recovered": "3"
+  },
+  {
+    "country": "Kiribati",
+    "cases": "2",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "cases": "1",
+    "death": "0",
+    "recovered": "1"
+  },
+  {
+    "country": "Tanzania",
+    "cases": "No data",
+    "death": "No data",
+    "recovered": "No data"
+  },
+  {
+    "country": "Hungary",
+    "cases": " Hungary",
+    "death": "803,567",
+    "recovered": "29,682"
+  },
+  {
+    "country": "Czech Republic",
+    "cases": " Czech Republic",
+    "death": "1,660,481",
+    "recovered": "30,088"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cases": " Bosnia and Herzegovina",
+    "death": "203,839",
+    "recovered": "9,211"
+  },
+  {
+    "country": "San Marino",
+    "cases": " San Marino",
+    "death": "5,089",
+    "recovered": "90"
+  },
+  {
+    "country": "North Macedonia",
+    "cases": " North Macedonia",
+    "death": "155,217",
+    "recovered": "5,387"
+  },
+  {
+    "country": "Montenegro",
+    "cases": " Montenegro",
+    "death": "99,518",
+    "recovered": "1,580"
+  },
+  {
+    "country": "Bulgaria",
+    "cases": " Bulgaria",
+    "death": "418,106",
+    "recovered": "17,652"
+  },
+  {
+    "country": "Moldova",
+    "cases": " Moldova",
+    "death": "255,060",
+    "recovered": "6,097"
+  },
+  {
+    "country": "Slovakia",
+    "cases": " Slovakia",
+    "death": "389,440",
+    "recovered": "12,333"
+  },
+  {
+    "country": "Brazil",
+    "cases": " Brazil",
+    "death": "16,391,930",
+    "recovered": "459,045"
+  },
+  {
+    "country": "Belgium",
+    "cases": " Belgium",
+    "death": "1,057,903",
+    "recovered": "24,910"
+  },
+  {
+    "country": "Peru",
+    "cases": " Peru",
+    "death": "1,942,054",
+    "recovered": "68,816"
+  },
+  {
+    "country": "Slovenia",
+    "cases": " Slovenia",
+    "death": "253,140",
+    "recovered": "4,370"
+  },
+  {
+    "country": "Italy",
+    "cases": " Italy",
+    "death": "4,209,707",
+    "recovered": "125,919"
+  },
+  {
+    "country": "Croatia",
+    "cases": " Croatia",
+    "death": "355,617",
+    "recovered": "7,992"
+  },
+  {
+    "country": "Poland",
+    "cases": " Poland",
+    "death": "2,870,595",
+    "recovered": "73,557"
+  },
+  {
+    "country": "United Kingdom",
+    "cases": " United Kingdom",
+    "death": "4,493,582",
+    "recovered": "128,030"
+  },
+  {
+    "country": "United States",
+    "cases": " United States",
+    "death": "33,239,963",
+    "recovered": "593,963"
+  },
+  {
+    "country": "Mexico",
+    "cases": " Mexico",
+    "death": "2,408,778",
+    "recovered": "223,072"
+  },
+  {
+    "country": "Colombia",
+    "cases": " Colombia",
+    "death": "3,342,567",
+    "recovered": "87,207"
+  },
+  {
+    "country": "Argentina",
+    "cases": " Argentina",
+    "death": "3,702,422",
+    "recovered": "76,693"
+  },
+  {
+    "country": "Spain",
+    "cases": " Spain",
+    "death": "3,668,658",
+    "recovered": "79,905"
+  },
+  {
+    "country": "Portugal",
+    "cases": " Portugal",
+    "death": "847,604",
+    "recovered": "17,023"
+  },
+  {
+    "country": "Andorra",
+    "cases": " Andorra",
+    "death": "13,693",
+    "recovered": "127"
+  },
+  {
+    "country": "France",
+    "cases": " France",
+    "death": "5,708,350",
+    "recovered": "109,452"
+  },
+  {
+    "country": "Romania",
+    "cases": " Romania",
+    "death": "1,077,161",
+    "recovered": "30,174"
+  },
+  {
+    "country": "Chile",
+    "cases": " Chile",
+    "death": "1,361,381",
+    "recovered": "28,928"
+  },
+  {
+    "country": "Liechtenstein",
+    "cases": " Liechtenstein",
+    "death": "3,006",
+    "recovered": "58"
+  },
+  {
+    "country": "Lithuania",
+    "cases": " Lithuania",
+    "death": "273,346",
+    "recovered": "4,235"
+  },
+  {
+    "country": "Panama",
+    "cases": " Panama",
+    "death": "376,854",
+    "recovered": "6,365"
+  },
+  {
+    "country": "Armenia",
+    "cases": " Armenia",
+    "death": "222,513",
+    "recovered": "4,423"
+  },
+  {
+    "country": "Sweden",
+    "cases": " Sweden",
+    "death": "1,068,473",
+    "recovered": "14,451"
+  },
+  {
+    "country": "Luxembourg",
+    "cases": " Luxembourg",
+    "death": "69,830",
+    "recovered": "814"
+  },
+  {
+    "country": "Georgia",
+    "cases": " Georgia",
+    "death": "341,894",
+    "recovered": "4,727"
+  },
+  {
+    "country": "Paraguay",
+    "cases": " Paraguay",
+    "death": "348,184",
+    "recovered": "8,892"
+  },
+  {
+    "country": "Switzerland",
+    "cases": " Switzerland",
+    "death": "693,023",
+    "recovered": "10,801"
+  },
+  {
+    "country": "Kosovo",
+    "cases": " Kosovo",
+    "death": "106,946",
+    "recovered": "2,247"
+  },
+  {
+    "country": "Bolivia",
+    "cases": " Bolivia",
+    "death": "364,570",
+    "recovered": "14,377"
+  },
+  {
+    "country": "Latvia",
+    "cases": " Latvia",
+    "death": "132,612",
+    "recovered": "2,359"
+  },
+  {
+    "country": "Austria",
+    "cases": " Austria",
+    "death": "643,709",
+    "recovered": "10,588"
+  },
+  {
+    "country": "Uruguay",
+    "cases": " Uruguay",
+    "death": "282,198",
+    "recovered": "4,118"
+  },
+  {
+    "country": "Ukraine",
+    "cases": " Ukraine",
+    "death": "2,254,674",
+    "recovered": "52,252"
+  },
+  {
+    "country": "Ecuador",
+    "cases": " Ecuador",
+    "death": "423,165",
+    "recovered": "20,408"
+  },
+  {
+    "country": "Lebanon",
+    "cases": " Lebanon",
+    "death": "539,888",
+    "recovered": "7,711"
+  },
+  {
+    "country": "Greece",
+    "cases": " Greece",
+    "death": "398,898",
+    "recovered": "11,995"
+  },
+  {
+    "country": "Tunisia",
+    "cases": " Tunisia",
+    "death": "341,952",
+    "recovered": "12,513"
+  },
+  {
+    "country": "Germany",
+    "cases": " Germany",
+    "death": "3,680,159",
+    "recovered": "88,360"
+  },
+  {
+    "country": "Netherlands",
+    "cases": " Netherlands",
+    "death": "1,668,581",
+    "recovered": "17,881"
+  },
+  {
+    "country": "Ireland",
+    "cases": " Ireland",
+    "death": "254,870",
+    "recovered": "4,941"
+  },
+  {
+    "country": "Serbia",
+    "cases": " Serbia",
+    "death": "711,772",
+    "recovered": "6,834"
+  },
+  {
+    "country": "South Africa",
+    "cases": " South Africa",
+    "death": "1,654,551",
+    "recovered": "56,293"
+  },
+  {
+    "country": "Iran",
+    "cases": " Iran",
+    "death": "2,886,111",
+    "recovered": "79,568"
+  },
+  {
+    "country": "Estonia",
+    "cases": " Estonia",
+    "death": "129,297",
+    "recovered": "1,247"
+  },
+  {
+    "country": "Jordan",
+    "cases": " Jordan",
+    "death": "734,659",
+    "recovered": "9,436"
+  },
+  {
+    "country": "Albania",
+    "cases": " Albania",
+    "death": "132,285",
+    "recovered": "2,448"
+  },
+  {
+    "country": "Malta",
+    "cases": " Malta",
+    "death": "30,526",
+    "recovered": "419"
+  },
+  {
+    "country": "Belize",
+    "cases": " Belize",
+    "death": "12,791",
+    "recovered": "324"
+  },
+  {
+    "country": "Monaco",
+    "cases": " Monaco",
+    "death": "2,503",
+    "recovered": "32"
+  },
+  {
+    "country": "Russia",
+    "cases": " Russia",
+    "death": "4,986,458",
+    "recovered": "118,386"
+  },
+  {
+    "country": "Costa Rica",
+    "cases": " Costa Rica",
+    "death": "314,102",
+    "recovered": "3,962"
+  },
+  {
+    "country": "Palestine",
+    "cases": " Palestine",
+    "death": "307,569",
+    "recovered": "3,489"
+  },
+  {
+    "country": "Israel",
+    "cases": " Israel",
+    "death": "839,433",
+    "recovered": "6,407"
+  },
+  {
+    "country": "Canada",
+    "cases": " Canada",
+    "death": "1,382,107",
+    "recovered": "25,424"
+  },
+  {
+    "country": "Honduras",
+    "cases": " Honduras",
+    "death": "236,451",
+    "recovered": "6,284"
+  },
+  {
+    "country": "Bahamas",
+    "cases": " Bahamas",
+    "death": "11,684",
+    "recovered": "229"
+  },
+  {
+    "country": "Eswatini",
+    "cases": " Eswatini",
+    "death": "18,587",
+    "recovered": "672"
+  },
+  {
+    "country": "Turkey",
+    "cases": " Turkey",
+    "death": "5,228,322",
+    "recovered": "47,134"
+  },
+  {
+    "country": "Bahrain",
+    "cases": " Bahrain",
+    "death": "232,425",
+    "recovered": "923"
+  },
+  {
+    "country": "Azerbaijan",
+    "cases": " Azerbaijan",
+    "death": "333,559",
+    "recovered": "4,896"
+  },
+  {
+    "country": "Guatemala",
+    "cases": " Guatemala",
+    "death": "252,929",
+    "recovered": "8,094"
+  },
+  {
+    "country": "Guyana",
+    "cases": " Guyana",
+    "death": "16,724",
+    "recovered": "380"
+  },
+  {
+    "country": "Suriname",
+    "cases": " Suriname",
+    "death": "14,305",
+    "recovered": "282"
+  },
+  {
+    "country": "Cape Verde",
+    "cases": " Cape Verde",
+    "death": "30,122",
+    "recovered": "261"
+  },
+  {
+    "country": "Oman",
+    "cases": " Oman",
+    "death": "213,784",
+    "recovered": "2,303"
+  },
+  {
+    "country": "Libya",
+    "cases": " Libya",
+    "death": "184,815",
+    "recovered": "3,116"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "cases": " Antigua and Barbuda",
+    "death": "1,259",
+    "recovered": "42"
+  },
+  {
+    "country": "Denmark",
+    "cases": " Denmark",
+    "death": "279,139",
+    "recovered": "2,513"
+  },
+  {
+    "country": "Saint Lucia",
+    "cases": " Saint Lucia",
+    "death": "5,035",
+    "recovered": "77"
+  },
+  {
+    "country": "Kuwait",
+    "cases": " Kuwait",
+    "death": "305,583",
+    "recovered": "1,760"
+  },
+  {
+    "country": "Iraq",
+    "cases": " Iraq",
+    "death": "1,190,351",
+    "recovered": "16,311"
+  },
+  {
+    "country": "Seychelles",
+    "cases": " Seychelles",
+    "death": "11,145",
+    "recovered": "40"
+  },
+  {
+    "country": "Botswana",
+    "cases": " Botswana",
+    "death": "53,771",
+    "recovered": "831"
+  },
+  {
+    "country": "El Salvador",
+    "cases": " El Salvador",
+    "death": "73,246",
+    "recovered": "2,237"
+  },
+  {
+    "country": "Dominican Republic",
+    "cases": " Dominican Republic",
+    "death": "289,288",
+    "recovered": "3,623"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cases": " Trinidad and Tobago",
+    "death": "22,620",
+    "recovered": "458"
+  },
+  {
+    "country": "Namibia",
+    "cases": " Namibia",
+    "death": "54,268",
+    "recovered": "807"
+  },
+  {
+    "country": "Jamaica",
+    "cases": " Jamaica",
+    "death": "48,288",
+    "recovered": "936"
+  },
+  {
+    "country": "Cyprus",
+    "cases": " Cyprus",
+    "death": "72,307",
+    "recovered": "360"
+  },
+  {
+    "country": "Belarus",
+    "cases": " Belarus",
+    "death": "391,637",
+    "recovered": "2,821"
+  },
+  {
+    "country": "Maldives",
+    "cases": " Maldives",
+    "death": "61,844",
+    "recovered": "155"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cases": " Kyrgyzstan",
+    "death": "103,866",
+    "recovered": "1,788"
+  },
+  {
+    "country": "Morocco",
+    "cases": " Morocco",
+    "death": "518,458",
+    "recovered": "9,135"
+  },
+  {
+    "country": "Nepal",
+    "cases": " Nepal",
+    "death": "549,111",
+    "recovered": "7,047"
+  },
+  {
+    "country": "India",
+    "cases": " India",
+    "death": "27,729,247",
+    "recovered": "322,512"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cases": " Saudi Arabia",
+    "death": "447,178",
+    "recovered": "7,320"
+  },
+  {
+    "country": "Qatar",
+    "cases": " Qatar",
+    "death": "216,885",
+    "recovered": "552"
+  },
+  {
+    "country": "Philippines",
+    "cases": " Philippines",
+    "death": "1,209,154",
+    "recovered": "20,566"
+  },
+  {
+    "country": "Kazakhstan",
+    "cases": " Kazakhstan",
+    "death": "438,619",
+    "recovered": "3,435"
+  },
+  {
+    "country": "Indonesia",
+    "cases": " Indonesia",
+    "death": "1,803,361",
+    "recovered": "50,100"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "cases": " São Tomé and Príncipe",
+    "death": "2,344",
+    "recovered": "37"
+  },
+  {
+    "country": "Finland",
+    "cases": " Finland",
+    "death": "92,244",
+    "recovered": "948"
+  },
+  {
+    "country": "Comoros",
+    "cases": " Comoros",
+    "death": "3,879",
+    "recovered": "146"
+  },
+  {
+    "country": "United Arab Emirates",
+    "cases": " United Arab Emirates",
+    "death": "565,451",
+    "recovered": "1,668"
+  },
+  {
+    "country": "Barbados",
+    "cases": " Barbados",
+    "death": "4,009",
+    "recovered": "47"
+  },
+  {
+    "country": "Djibouti",
+    "cases": " Djibouti",
+    "death": "11,523",
+    "recovered": "153"
+  },
+  {
+    "country": "Lesotho",
+    "cases": " Lesotho",
+    "death": "10,825",
+    "recovered": "326"
+  },
+  {
+    "country": "Egypt",
+    "cases": " Egypt",
+    "death": "259,540",
+    "recovered": "14,950"
+  },
+  {
+    "country": "Norway",
+    "cases": " Norway",
+    "death": "124,410",
+    "recovered": "783"
+  },
+  {
+    "country": "Congo",
+    "cases": " Congo",
+    "death": "31,386",
+    "recovered": "782"
+  },
+  {
+    "country": "Zimbabwe",
+    "cases": " Zimbabwe",
+    "death": "38,918",
+    "recovered": "1,592"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "cases": " Saint Vincent and the Grenadines",
+    "death": "2,014",
+    "recovered": "12"
+  },
+  {
+    "country": "Syria",
+    "cases": " Syria",
+    "death": "24,410",
+    "recovered": "1,758"
+  },
+  {
+    "country": "Mauritania",
+    "cases": " Mauritania",
+    "death": "19,407",
+    "recovered": "462"
+  },
+  {
+    "country": "Japan",
+    "cases": " Japan",
+    "death": "738,935",
+    "recovered": "12,786"
+  },
+  {
+    "country": "Pakistan",
+    "cases": " Pakistan",
+    "death": "916,239",
+    "recovered": "20,680"
+  },
+  {
+    "country": "Venezuela",
+    "cases": " Venezuela",
+    "death": "230,147",
+    "recovered": "2,595"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cases": " Equatorial Guinea",
+    "death": "8,476",
+    "recovered": "113"
+  },
+  {
+    "country": "Mongolia",
+    "cases": " Mongolia",
+    "death": "56,621",
+    "recovered": "268"
+  },
+  {
+    "country": "Cuba",
+    "cases": " Cuba",
+    "death": "138,899",
+    "recovered": "933"
+  },
+  {
+    "country": "Iceland",
+    "cases": " Iceland",
+    "death": "6,555",
+    "recovered": "29"
+  },
+  {
+    "country": "Algeria",
+    "cases": " Algeria",
+    "death": "128,198",
+    "recovered": "3,455"
+  },
+  {
+    "country": "Malaysia",
+    "cases": " Malaysia",
+    "death": "549,514",
+    "recovered": "2,552"
+  },
+  {
+    "country": "Bangladesh",
+    "cases": " Bangladesh",
+    "death": "796,343",
+    "recovered": "12,511"
+  },
+  {
+    "country": "Gambia",
+    "cases": " Gambia",
+    "death": "5,990",
+    "recovered": "178"
+  },
+  {
+    "country": "Afghanistan",
+    "cases": " Afghanistan",
+    "death": "69,130",
+    "recovered": "2,881"
+  },
+  {
+    "country": "Zambia",
+    "cases": " Zambia",
+    "death": "94,430",
+    "recovered": "1,275"
+  },
+  {
+    "country": "Senegal",
+    "cases": " Senegal",
+    "death": "41,296",
+    "recovered": "1,138"
+  },
+  {
+    "country": "Gabon",
+    "cases": " Gabon",
+    "death": "24,365",
+    "recovered": "150"
+  },
+  {
+    "country": "Sri Lanka",
+    "cases": " Sri Lanka",
+    "death": "177,711",
+    "recovered": "1,363"
+  },
+  {
+    "country": "Malawi",
+    "cases": " Malawi",
+    "death": "34,323",
+    "recovered": "1,154"
+  },
+  {
+    "country": "Sudan",
+    "cases": " Sudan",
+    "death": "35,289",
+    "recovered": "2,600"
+  },
+  {
+    "country": "Myanmar",
+    "cases": " Myanmar",
+    "death": "143,486",
+    "recovered": "3,216"
+  },
+  {
+    "country": "Kenya",
+    "cases": " Kenya",
+    "death": "170,041",
+    "recovered": "3,124"
+  },
+  {
+    "country": "Somalia",
+    "cases": " Somalia",
+    "death": "14,647",
+    "recovered": "768"
+  },
+  {
+    "country": "Cameroon",
+    "cases": " Cameroon",
+    "death": "77,982",
+    "recovered": "1,270"
+  },
+  {
+    "country": "Yemen",
+    "cases": " Yemen",
+    "death": "6,723",
+    "recovered": "1,316"
+  },
+  {
+    "country": "South Korea",
+    "cases": " South Korea",
+    "death": "139,431",
+    "recovered": "1,951"
+  },
+  {
+    "country": "Ethiopia",
+    "cases": " Ethiopia",
+    "death": "270,944",
+    "recovered": "4,139"
+  },
+  {
+    "country": "Australia",
+    "cases": " Australia",
+    "death": "30,083",
+    "recovered": "910"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cases": " Guinea-Bissau",
+    "death": "3,760",
+    "recovered": "68"
+  },
+  {
+    "country": "Madagascar",
+    "cases": " Madagascar",
+    "death": "41,184",
+    "recovered": "827"
+  },
+  {
+    "country": "Nicaragua",
+    "cases": " Nicaragua",
+    "death": "7,324",
+    "recovered": "186"
+  },
+  {
+    "country": "Rwanda",
+    "cases": " Rwanda",
+    "death": "26,878",
+    "recovered": "352"
+  },
+  {
+    "country": "Mozambique",
+    "cases": " Mozambique",
+    "death": "70,697",
+    "recovered": "835"
+  },
+  {
+    "country": "Mali",
+    "cases": " Mali",
+    "death": "14,262",
+    "recovered": "516"
+  },
+  {
+    "country": "Haiti",
+    "cases": " Haiti",
+    "death": "14,037",
+    "recovered": "292"
+  },
+  {
+    "country": "Ghana",
+    "cases": " Ghana",
+    "death": "93,775",
+    "recovered": "784"
+  },
+  {
+    "country": "Angola",
+    "cases": " Angola",
+    "death": "33,944",
+    "recovered": "749"
+  },
+  {
+    "country": "Central African Republic",
+    "cases": " Central African Republic",
+    "death": "7,085",
+    "recovered": "98"
+  },
+  {
+    "country": "Uzbekistan",
+    "cases": " Uzbekistan",
+    "death": "99,580",
+    "recovered": "687"
+  },
+  {
+    "country": "Papua New Guinea",
+    "cases": " Papua New Guinea",
+    "death": "15,772",
+    "recovered": "162"
+  },
+  {
+    "country": "Liberia",
+    "cases": " Liberia",
+    "death": "2,179",
+    "recovered": "86"
+  },
+  {
+    "country": "Togo",
+    "cases": " Togo",
+    "death": "13,432",
+    "recovered": "125"
+  },
+  {
+    "country": "Thailand",
+    "cases": " Thailand",
+    "death": "147,039",
+    "recovered": "954"
+  },
+  {
+    "country": "Mauritius",
+    "cases": " Mauritius",
+    "death": "1,356",
+    "recovered": "17"
+  },
+  {
+    "country": "Guinea",
+    "cases": " Guinea",
+    "death": "23,110",
+    "recovered": "161"
+  },
+  {
+    "country": "Cambodia",
+    "cases": " Cambodia",
+    "death": "28,237",
+    "recovered": "196"
+  },
+  {
+    "country": "Ivory Coast",
+    "cases": " Ivory Coast",
+    "death": "47,195",
+    "recovered": "301"
+  },
+  {
+    "country": "East Timor",
+    "cases": " East Timor",
+    "death": "6,622",
+    "recovered": "15"
+  },
+  {
+    "country": "Chad",
+    "cases": " Chad",
+    "death": "4,927",
+    "recovered": "173"
+  },
+  {
+    "country": "South Sudan",
+    "cases": " South Sudan",
+    "death": "10,688",
+    "recovered": "115"
+  },
+  {
+    "country": "Nigeria",
+    "cases": " Nigeria",
+    "death": "166,254",
+    "recovered": "2,071"
+  },
+  {
+    "country": "Sierra Leone",
+    "cases": " Sierra Leone",
+    "death": "4,140",
+    "recovered": "79"
+  },
+  {
+    "country": "Tajikistan",
+    "cases": " Tajikistan",
+    "death": "13,308",
+    "recovered": "90"
+  },
+  {
+    "country": "Benin",
+    "cases": " Benin",
+    "death": "8,058",
+    "recovered": "101"
+  },
+  {
+    "country": "Uganda",
+    "cases": " Uganda",
+    "death": "45,231",
+    "recovered": "361"
+  },
+  {
+    "country": "Burkina Faso",
+    "cases": " Burkina Faso",
+    "death": "13,424",
+    "recovered": "166"
+  },
+  {
+    "country": "Niger",
+    "cases": " Niger",
+    "death": "5,406",
+    "recovered": "192"
+  },
+  {
+    "country": "Brunei",
+    "cases": " Brunei",
+    "death": "241",
+    "recovered": "3"
+  },
+  {
+    "country": "Singapore",
+    "cases": " Singapore",
+    "death": "61,970",
+    "recovered": "32"
+  },
+  {
+    "country": "New Zealand",
+    "cases": " New Zealand",
+    "death": "2,670",
+    "recovered": "26"
+  },
+  {
+    "country": "Fiji",
+    "cases": " Fiji",
+    "death": "360",
+    "recovered": "4"
+  },
+  {
+    "country": "China",
+    "cases": " China",
+    "death": "102,948",
+    "recovered": "4,846"
+  },
+  {
+    "country": "Taiwan",
+    "cases": " Taiwan",
+    "death": "7,315",
+    "recovered": "78"
+  },
+  {
+    "country": "DR Congo",
+    "cases": " DR Congo",
+    "death": "11,658",
+    "recovered": "153"
+  },
+  {
+    "country": "Vietnam",
+    "cases": " Vietnam",
+    "death": "6,396",
+    "recovered": "47"
+  },
+  {
+    "country": "Burundi",
+    "cases": " Burundi",
+    "death": "4,669",
+    "recovered": "6"
+  },
+  {
+    "country": "Tanzania",
+    "cases": " Tanzania",
+    "death": "509",
+    "recovered": "21"
+  },
+  {
+    "country": "Laos",
+    "cases": " Laos",
+    "death": "1,905",
+    "recovered": "3"
+  },
+  {
+    "country": "Eritrea",
+    "cases": " Eritrea",
+    "death": "4,022",
+    "recovered": "14"
+  },
+  {
+    "country": null,
+    "cases": "World",
+    "death": "1",
+    "recovered": "259"
+  },
+  {
+    "country": null,
+    "cases": "Days to double",
+    "death": "6",
+    "recovered": "4"
+  },
+  {
+    "country": null,
+    "cases": "Countries and territories",
+    "death": "1",
+    "recovered": "1"
+  },
+  {
+    "country": "USA",
+    "cases": " USA",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Brazil",
+    "cases": " Brazil",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "India",
+    "cases": " India",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Mexico",
+    "cases": " Mexico",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "UK",
+    "cases": " UK",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Italy",
+    "cases": " Italy",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "France",
+    "cases": " France",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Iran",
+    "cases": " Iran",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Spain",
+    "cases": " Spain",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Russia",
+    "cases": " Russia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Argentina",
+    "cases": " Argentina",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Colombia",
+    "cases": " Colombia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Peru",
+    "cases": " Peru",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "South Africa",
+    "cases": " South Africa",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Poland",
+    "cases": " Poland",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Indonesia",
+    "cases": " Indonesia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Belgium",
+    "cases": " Belgium",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Germany",
+    "cases": " Germany",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Chile",
+    "cases": " Chile",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Turkey",
+    "cases": " Turkey",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Ecuador",
+    "cases": " Ecuador",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Ukraine",
+    "cases": " Ukraine",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Iraq",
+    "cases": " Iraq",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Canada",
+    "cases": " Canada",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Romania",
+    "cases": " Romania",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Netherlands",
+    "cases": " Netherlands",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bolivia",
+    "cases": " Bolivia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Philippines",
+    "cases": " Philippines",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Czechia",
+    "cases": " Czechia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Pakistan",
+    "cases": " Pakistan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Sweden",
+    "cases": " Sweden",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Egypt",
+    "cases": " Egypt",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bangladesh",
+    "cases": " Bangladesh",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cases": " Saudi Arabia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Morocco",
+    "cases": " Morocco",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Hungary",
+    "cases": " Hungary",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "China",
+    "cases": " China",
+    "death": "1",
+    "recovered": "259"
+  },
+  {
+    "country": "Portugal",
+    "cases": " Portugal",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Switzerland",
+    "cases": "  Switzerland",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guatemala",
+    "cases": " Guatemala",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bulgaria",
+    "cases": " Bulgaria",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Tunisia",
+    "cases": " Tunisia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Panama",
+    "cases": " Panama",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Austria",
+    "cases": " Austria",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Honduras",
+    "cases": " Honduras",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Israel",
+    "cases": " Israel",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Jordan",
+    "cases": " Jordan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cases": " Bosnia and Herzegovina",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Kazakhstan",
+    "cases": " Kazakhstan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Algeria",
+    "cases": " Algeria",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Greece",
+    "cases": " Greece",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Dominican Republic",
+    "cases": " Dominican Republic",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Moldova",
+    "cases": " Moldova",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Armenia",
+    "cases": " Armenia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Japan",
+    "cases": " Japan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Ireland",
+    "cases": " Ireland",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Myanmar",
+    "cases": " Myanmar",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Croatia",
+    "cases": " Croatia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Afghanistan",
+    "cases": " Afghanistan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "North Macedonia",
+    "cases": " North Macedonia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Paraguay",
+    "cases": " Paraguay",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Ethiopia",
+    "cases": " Ethiopia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Costa Rica",
+    "cases": " Costa Rica",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Serbia",
+    "cases": " Serbia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Nepal",
+    "cases": "   Nepal",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Kenya",
+    "cases": " Kenya",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Oman",
+    "cases": " Oman",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Azerbaijan",
+    "cases": " Azerbaijan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Georgia",
+    "cases": " Georgia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cases": " Kyrgyzstan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Sudan",
+    "cases": " Sudan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Libya",
+    "cases": " Libya",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Nigeria",
+    "cases": " Nigeria",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Belarus",
+    "cases": " Belarus",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "El Salvador",
+    "cases": " El Salvador",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Puerto Rico",
+    "cases": " Puerto Rico",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Lebanon",
+    "cases": " Lebanon",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Kosovo",
+    "cases": " Kosovo",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Slovenia",
+    "cases": " Slovenia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Australia",
+    "cases": " Australia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Venezuela",
+    "cases": " Venezuela",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Kuwait",
+    "cases": " Kuwait",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Slovakia",
+    "cases": " Slovakia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Denmark",
+    "cases": " Denmark",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Palestine",
+    "cases": " Palestine",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Albania",
+    "cases": " Albania",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Uzbekistan",
+    "cases": " Uzbekistan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Yemen",
+    "cases": " Yemen",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "UAE",
+    "cases": " UAE",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "South Korea",
+    "cases": " South Korea",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Lithuania",
+    "cases": " Lithuania",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Montenegro",
+    "cases": " Montenegro",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Cameroon",
+    "cases": " Cameroon",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Syria",
+    "cases": " Syria",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Finland",
+    "cases": " Finland",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Malaysia",
+    "cases": " Malaysia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Zambia",
+    "cases": " Zambia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Angola",
+    "cases": " Angola",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bahrain",
+    "cases": " Bahrain",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "DRC",
+    "cases": " DRC",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Senegal",
+    "cases": " Senegal",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Norway",
+    "cases": " Norway",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Ghana",
+    "cases": " Ghana",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Luxembourg",
+    "cases": " Luxembourg",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Zimbabwe",
+    "cases": " Zimbabwe",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Jamaica",
+    "cases": " Jamaica",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Madagascar",
+    "cases": " Madagascar",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Qatar",
+    "cases": " Qatar",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Haiti",
+    "cases": " Haiti",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Latvia",
+    "cases": " Latvia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Uganda",
+    "cases": " Uganda",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Malawi",
+    "cases": " Malawi",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Mauritania",
+    "cases": " Mauritania",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bahamas",
+    "cases": " Bahamas",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Nicaragua",
+    "cases": " Nicaragua",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Mali",
+    "cases": " Mali",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Namibia",
+    "cases": " Namibia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guyana",
+    "cases": " Guyana",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guadeloupe",
+    "cases": " Guadeloupe",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Belize",
+    "cases": " Belize",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Malta",
+    "cases": " Malta",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Cuba",
+    "cases": " Cuba",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "cases": " Cote d'Ivoire",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Mozambique",
+    "cases": " Mozambique",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Gambia",
+    "cases": " Gambia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Eswatini",
+    "cases": " Eswatini",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cases": " Trinidad and Tobago",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Estonia",
+    "cases": " Estonia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Suriname",
+    "cases": " Suriname",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Sri Lanka",
+    "cases": " Sri Lanka",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Somalia",
+    "cases": " Somalia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guam",
+    "cases": " Guam",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Cabo Verde",
+    "cases": " Cabo Verde",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Chad",
+    "cases": " Chad",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Congo",
+    "cases": " Congo",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Tajikistan",
+    "cases": " Tajikistan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cases": " Equatorial Guinea",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Liberia",
+    "cases": " Liberia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Andorra",
+    "cases": " Andorra",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Uruguay",
+    "cases": " Uruguay",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guinea",
+    "cases": " Guinea",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "French Polynesia",
+    "cases": " French Polynesia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Sierra Leone",
+    "cases": " Sierra Leone",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Niger",
+    "cases": " Niger",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "French Guiana",
+    "cases": " French Guiana",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Burkina Faso",
+    "cases": " Burkina Faso",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Togo",
+    "cases": " Togo",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Central African Republic",
+    "cases": " Central African Republic",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Djibouti",
+    "cases": " Djibouti",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "South Sudan",
+    "cases": " South Sudan",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Thailand",
+    "cases": " Thailand",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Gabon",
+    "cases": " Gabon",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Cyprus",
+    "cases": " Cyprus",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Mayotte",
+    "cases": " Mayotte",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Rwanda",
+    "cases": " Rwanda",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "San Marino",
+    "cases": " San Marino",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Maldives",
+    "cases": " Maldives",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Aruba",
+    "cases": " Aruba",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Lesotho",
+    "cases": " Lesotho",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Benin",
+    "cases": " Benin",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cases": " Guinea-Bissau",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Martinique",
+    "cases": " Martinique",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Reunion",
+    "cases": " Reunion",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Vietnam",
+    "cases": " Vietnam",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Jersey",
+    "cases": " Jersey",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Botswana",
+    "cases": " Botswana",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Singapore",
+    "cases": " Singapore",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Iceland",
+    "cases": " Iceland",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "New Zealand",
+    "cases": " New Zealand",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Isle of Man",
+    "cases": " Isle of Man",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Sint Maarten",
+    "cases": " Sint Maarten",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "US Virgin Islands",
+    "cases": " US Virgin Islands",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Tanzania",
+    "cases": " Tanzania",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "cases": " São Tomé and Príncipe",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Liechtenstein",
+    "cases": " Liechtenstein",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": null,
+    "cases": "  Other",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Guernsey",
+    "cases": " Guernsey",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Saint Martin",
+    "cases": " Saint Martin",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Mauritius",
+    "cases": " Mauritius",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Bermuda",
+    "cases": " Bermuda",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Barbados",
+    "cases": " Barbados",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Comoros",
+    "cases": " Comoros",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Papua New Guinea",
+    "cases": " Papua New Guinea",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Turks and Caicos",
+    "cases": " Turks and Caicos",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Gibraltar",
+    "cases": " Gibraltar",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Curaçao",
+    "cases": " Curaçao",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "cases": " Antigua and Barbuda",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Brunei",
+    "cases": " Brunei",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Monaco",
+    "cases": " Monaco",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Caribbean Netherlands",
+    "cases": " Caribbean Netherlands",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Cayman Islands",
+    "cases": " Cayman Islands",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "cases": " Northern Mariana Islands",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Fiji",
+    "cases": " Fiji",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Saint Lucia",
+    "cases": " Saint Lucia",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "British Virgin Islands",
+    "cases": " British Virgin Islands",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Burundi",
+    "cases": " Burundi",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": "Montserrat",
+    "cases": " Montserrat",
+    "death": "0",
+    "recovered": "0"
+  },
+  {
+    "country": null,
+    "cases": "World",
+    "death": "",
+    "recovered": "1,808,152"
+  },
+  {
+    "country": null,
+    "cases": "Days to double",
+    "death": "",
+    "recovered": "112"
+  },
+  {
+    "country": null,
+    "cases": "Countries and territories",
+    "death": "",
+    "recovered": "196"
+  },
+  {
+    "country": "USA",
+    "cases": " USA",
+    "death": "March 3, 2020",
+    "recovered": "335,789"
+  },
+  {
+    "country": "Brazil",
+    "cases": " Brazil",
+    "death": "March 19, 2020",
+    "recovered": "193,875"
+  },
+  {
+    "country": "Mexico",
+    "cases": " Mexico",
+    "death": "March 20, 2020",
+    "recovered": "124,897"
+  },
+  {
+    "country": "India",
+    "cases": " India",
+    "death": "March 13, 2020",
+    "recovered": "148,994"
+  },
+  {
+    "country": "UK",
+    "cases": " UK",
+    "death": "March 7, 2020",
+    "recovered": "73,512"
+  },
+  {
+    "country": "Italy",
+    "cases": " Italy",
+    "death": "February 23, 2020",
+    "recovered": "74,159"
+  },
+  {
+    "country": "Russia",
+    "cases": " Russia",
+    "death": "March 26, 2020",
+    "recovered": "57,555"
+  },
+  {
+    "country": "France",
+    "cases": " France",
+    "death": "February 16, 2020",
+    "recovered": "64,254"
+  },
+  {
+    "country": "Germany",
+    "cases": " Germany",
+    "death": "March 10, 2020",
+    "recovered": "33,624"
+  },
+  {
+    "country": "Spain",
+    "cases": " Spain",
+    "death": "March 5, 2020",
+    "recovered": "50,442"
+  },
+  {
+    "country": "Colombia",
+    "cases": " Colombia",
+    "death": "March 23, 2020",
+    "recovered": "42,909"
+  },
+  {
+    "country": "Iran",
+    "cases": " Iran",
+    "death": "February 20, 2020",
+    "recovered": "55,223"
+  },
+  {
+    "country": "Poland",
+    "cases": " Poland",
+    "death": "March 13, 2020",
+    "recovered": "28,956"
+  },
+  {
+    "country": "Argentina",
+    "cases": " Argentina",
+    "death": "March 8, 2020",
+    "recovered": "43,163"
+  },
+  {
+    "country": "Peru",
+    "cases": " Peru",
+    "death": "March 21, 2020",
+    "recovered": "37,621"
+  },
+  {
+    "country": "South Africa",
+    "cases": " South Africa",
+    "death": "March 28, 2020",
+    "recovered": "28,469"
+  },
+  {
+    "country": "Indonesia",
+    "cases": " Indonesia",
+    "death": "March 11, 2020",
+    "recovered": "22,138"
+  },
+  {
+    "country": "Ukraine",
+    "cases": " Ukraine",
+    "death": "March 14, 2020",
+    "recovered": "18,680"
+  },
+  {
+    "country": "Turkey",
+    "cases": " Turkey",
+    "death": "March 18, 2020",
+    "recovered": "20,881"
+  },
+  {
+    "country": "Czechia",
+    "cases": " Czechia",
+    "death": "March 23, 2020",
+    "recovered": "11,711"
+  },
+  {
+    "country": "Romania",
+    "cases": " Romania",
+    "death": "March 23, 2020",
+    "recovered": "15,767"
+  },
+  {
+    "country": "Hungary",
+    "cases": " Hungary",
+    "death": "March 16, 2020",
+    "recovered": "9,667"
+  },
+  {
+    "country": "Chile",
+    "cases": " Chile",
+    "death": "March 22, 2020",
+    "recovered": "16,608"
+  },
+  {
+    "country": "Belgium",
+    "cases": " Belgium",
+    "death": "March 16, 2020",
+    "recovered": "19,573"
+  },
+  {
+    "country": "Canada",
+    "cases": " Canada",
+    "death": "March 11, 2020",
+    "recovered": "15,472"
+  },
+  {
+    "country": "Ecuador",
+    "cases": " Ecuador",
+    "death": "March 16, 2020",
+    "recovered": "14,034"
+  },
+  {
+    "country": "Pakistan",
+    "cases": " Pakistan",
+    "death": "March 20, 2020",
+    "recovered": "10,105"
+  },
+  {
+    "country": "Philippines",
+    "cases": " Philippines",
+    "death": "February 2, 2020",
+    "recovered": "9,244"
+  },
+  {
+    "country": "Netherlands",
+    "cases": " Netherlands",
+    "death": "March 7, 2020",
+    "recovered": "11,439"
+  },
+  {
+    "country": "Portugal",
+    "cases": " Portugal",
+    "death": "March 18, 2020",
+    "recovered": "6,906"
+  },
+  {
+    "country": "Bulgaria",
+    "cases": " Bulgaria",
+    "death": "March 12, 2020",
+    "recovered": "7,576"
+  },
+  {
+    "country": "Iraq",
+    "cases": " Iraq",
+    "death": "March 5, 2020",
+    "recovered": "12,813"
+  },
+  {
+    "country": "Sweden",
+    "cases": " Sweden",
+    "death": "March 16, 2020",
+    "recovered": "8,727"
+  },
+  {
+    "country": "Egypt",
+    "cases": " Egypt",
+    "death": "March 9, 2020",
+    "recovered": "7,631"
+  },
+  {
+    "country": "Bolivia",
+    "cases": " Bolivia",
+    "death": "March 31, 2020",
+    "recovered": "9,149"
+  },
+  {
+    "country": "Slovakia",
+    "cases": " Slovakia",
+    "death": "April 7, 2020",
+    "recovered": "2,250"
+  },
+  {
+    "country": "Bangladesh",
+    "cases": " Bangladesh",
+    "death": "March 20, 2020",
+    "recovered": "7,559"
+  },
+  {
+    "country": "Tunisia",
+    "cases": " Tunisia",
+    "death": "March 21, 2020",
+    "recovered": "4,676"
+  },
+  {
+    "country": "Greece",
+    "cases": " Greece",
+    "death": "March 12, 2020",
+    "recovered": "4,838"
+  },
+  {
+    "country": "Japan",
+    "cases": " Japan",
+    "death": "February 14, 2020",
+    "recovered": "3,460"
+  },
+  {
+    "country": "Switzerland",
+    "cases": "  Switzerland",
+    "death": "March 6, 2020",
+    "recovered": "7,049"
+  },
+  {
+    "country": "Austria",
+    "cases": " Austria",
+    "death": "March 13, 2020",
+    "recovered": "6,131"
+  },
+  {
+    "country": "Morocco",
+    "cases": " Morocco",
+    "death": "March 11, 2020",
+    "recovered": "7,388"
+  },
+  {
+    "country": "Jordan",
+    "cases": " Jordan",
+    "death": "March 28, 2020",
+    "recovered": "3,834"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cases": " Bosnia and Herzegovina",
+    "death": "March 22, 2020",
+    "recovered": "4,072"
+  },
+  {
+    "country": "Guatemala",
+    "cases": " Guatemala",
+    "death": "March 16, 2020",
+    "recovered": "4,813"
+  },
+  {
+    "country": "Lebanon",
+    "cases": " Lebanon",
+    "death": "March 11, 2020",
+    "recovered": "1,455"
+  },
+  {
+    "country": "Croatia",
+    "cases": " Croatia",
+    "death": "March 25, 2020",
+    "recovered": "3,961"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cases": " Saudi Arabia",
+    "death": "March 25, 2020",
+    "recovered": "6,223"
+  },
+  {
+    "country": "Israel",
+    "cases": " Israel",
+    "death": "March 21, 2020",
+    "recovered": "3,320"
+  },
+  {
+    "country": "Serbia",
+    "cases": " Serbia",
+    "death": "March 24, 2020",
+    "recovered": "3,211"
+  },
+  {
+    "country": "Paraguay",
+    "cases": " Paraguay",
+    "death": "March 22, 2020",
+    "recovered": "2,242"
+  },
+  {
+    "country": "Panama",
+    "cases": " Panama",
+    "death": "March 11, 2020",
+    "recovered": "3,975"
+  },
+  {
+    "country": "Moldova",
+    "cases": " Moldova",
+    "death": "March 21, 2020",
+    "recovered": "2,985"
+  },
+  {
+    "country": "Honduras",
+    "cases": " Honduras",
+    "death": "March 27, 2020",
+    "recovered": "3,130"
+  },
+  {
+    "country": "Ireland",
+    "cases": " Ireland",
+    "death": "March 12, 2020",
+    "recovered": "2,237"
+  },
+  {
+    "country": "China",
+    "cases": " China",
+    "death": "January 19, 2020",
+    "recovered": "4,789"
+  },
+  {
+    "country": "North Macedonia",
+    "cases": " North Macedonia",
+    "death": "March 23, 2020",
+    "recovered": "2,503"
+  },
+  {
+    "country": "Slovenia",
+    "cases": " Slovenia",
+    "death": "March 18, 2020",
+    "recovered": "2,842"
+  },
+  {
+    "country": "Azerbaijan",
+    "cases": " Azerbaijan",
+    "death": "March 19, 2020",
+    "recovered": "2,641"
+  },
+  {
+    "country": "Kazakhstan",
+    "cases": " Kazakhstan",
+    "death": "March 28, 2020",
+    "recovered": "2,749"
+  },
+  {
+    "country": "Georgia",
+    "cases": " Georgia",
+    "death": "April 5, 2020",
+    "recovered": "2,528"
+  },
+  {
+    "country": "Armenia",
+    "cases": " Armenia",
+    "death": "March 27, 2020",
+    "recovered": "2,818"
+  },
+  {
+    "country": "Lithuania",
+    "cases": " Lithuania",
+    "death": "March 21, 2020",
+    "recovered": "1,589"
+  },
+  {
+    "country": "Ethiopia",
+    "cases": " Ethiopia",
+    "death": "April 6, 2020",
+    "recovered": "1,923"
+  },
+  {
+    "country": "Palestine",
+    "cases": " Palestine",
+    "death": "March 26, 2020",
+    "recovered": "1,529"
+  },
+  {
+    "country": "Dominican Republic",
+    "cases": " Dominican Republic",
+    "death": "March 17, 2020",
+    "recovered": "2,414"
+  },
+  {
+    "country": "Nepal",
+    "cases": "   Nepal",
+    "death": "May 17, 2020",
+    "recovered": "1,856"
+  },
+  {
+    "country": "Algeria",
+    "cases": " Algeria",
+    "death": "March 12, 2020",
+    "recovered": "2,756"
+  },
+  {
+    "country": "Costa Rica",
+    "cases": " Costa Rica",
+    "death": "March 20, 2020",
+    "recovered": "2,171"
+  },
+  {
+    "country": "Myanmar",
+    "cases": " Myanmar",
+    "death": "April 1, 2020",
+    "recovered": "2,682"
+  },
+  {
+    "country": "Libya",
+    "cases": " Libya",
+    "death": "April 3, 2020",
+    "recovered": "1,478"
+  },
+  {
+    "country": "Kenya",
+    "cases": " Kenya",
+    "death": "March 27, 2020",
+    "recovered": "1,670"
+  },
+  {
+    "country": "Afghanistan",
+    "cases": " Afghanistan",
+    "death": "March 23, 2020",
+    "recovered": "2,201"
+  },
+  {
+    "country": "Uruguay",
+    "cases": " Uruguay",
+    "death": "April 1, 2020",
+    "recovered": "174"
+  },
+  {
+    "country": "Belarus",
+    "cases": " Belarus",
+    "death": "April 2, 2020",
+    "recovered": "1,424"
+  },
+  {
+    "country": "Denmark",
+    "cases": " Denmark",
+    "death": "March 16, 2020",
+    "recovered": "1,298"
+  },
+  {
+    "country": "Albania",
+    "cases": " Albania",
+    "death": "March 14, 2020",
+    "recovered": "1,181"
+  },
+  {
+    "country": "Sudan",
+    "cases": " Sudan",
+    "death": "March 16, 2020",
+    "recovered": "1,468"
+  },
+  {
+    "country": "Puerto Rico",
+    "cases": " Puerto Rico",
+    "death": "March 22, 2020",
+    "recovered": "1,503"
+  },
+  {
+    "country": "Kosovo",
+    "cases": " Kosovo",
+    "death": "March 21, 2020",
+    "recovered": "1,325"
+  },
+  {
+    "country": "Latvia",
+    "cases": " Latvia",
+    "death": "April 4, 2020",
+    "recovered": "635"
+  },
+  {
+    "country": "El Salvador",
+    "cases": " El Salvador",
+    "death": "April 2, 2020",
+    "recovered": "1,336"
+  },
+  {
+    "country": "Venezuela",
+    "cases": " Venezuela",
+    "death": "March 29, 2020",
+    "recovered": "1,025"
+  },
+  {
+    "country": "Nigeria",
+    "cases": " Nigeria",
+    "death": "March 26, 2020",
+    "recovered": "1,289"
+  },
+  {
+    "country": "Oman",
+    "cases": " Oman",
+    "death": "April 1, 2020",
+    "recovered": "1,499"
+  },
+  {
+    "country": "South Korea",
+    "cases": " South Korea",
+    "death": "February 20, 2020",
+    "recovered": "917"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cases": " Kyrgyzstan",
+    "death": "April 3, 2020",
+    "recovered": "1,356"
+  },
+  {
+    "country": "Syria",
+    "cases": " Syria",
+    "death": "March 30, 2020",
+    "recovered": "711"
+  },
+  {
+    "country": "UAE",
+    "cases": " UAE",
+    "death": "March 22, 2020",
+    "recovered": "669"
+  },
+  {
+    "country": "Zimbabwe",
+    "cases": " Zimbabwe",
+    "death": "March 24, 2020",
+    "recovered": "363"
+  },
+  {
+    "country": "Kuwait",
+    "cases": " Kuwait",
+    "death": "April 5, 2020",
+    "recovered": "934"
+  },
+  {
+    "country": "Malaysia",
+    "cases": " Malaysia",
+    "death": "March 19, 2020",
+    "recovered": "471"
+  },
+  {
+    "country": "Montenegro",
+    "cases": " Montenegro",
+    "death": "March 26, 2020",
+    "recovered": "685"
+  },
+  {
+    "country": "Zambia",
+    "cases": " Zambia",
+    "death": "April 3, 2020",
+    "recovered": "388"
+  },
+  {
+    "country": "Yemen",
+    "cases": " Yemen",
+    "death": "May 1, 2020",
+    "recovered": "611"
+  },
+  {
+    "country": "Estonia",
+    "cases": " Estonia",
+    "death": "March 26, 2020",
+    "recovered": "234"
+  },
+  {
+    "country": "Malawi",
+    "cases": " Malawi",
+    "death": "April 8, 2020",
+    "recovered": "189"
+  },
+  {
+    "country": "Senegal",
+    "cases": " Senegal",
+    "death": "April 2, 2020",
+    "recovered": "410"
+  },
+  {
+    "country": "Cameroon",
+    "cases": " Cameroon",
+    "death": "March 25, 2020",
+    "recovered": "448"
+  },
+  {
+    "country": "Finland",
+    "cases": " Finland",
+    "death": "March 22, 2020",
+    "recovered": "561"
+  },
+  {
+    "country": "Australia",
+    "cases": " Australia",
+    "death": "March 2, 2020",
+    "recovered": "909"
+  },
+  {
+    "country": "Mozambique",
+    "cases": " Mozambique",
+    "death": "May 26, 2020",
+    "recovered": "166"
+  },
+  {
+    "country": "Luxembourg",
+    "cases": " Luxembourg",
+    "death": "March 14, 2020",
+    "recovered": "498"
+  },
+  {
+    "country": "Ghana",
+    "cases": " Ghana",
+    "death": "March 24, 2020",
+    "recovered": "335"
+  },
+  {
+    "country": "Jamaica",
+    "cases": " Jamaica",
+    "death": "March 20, 2020",
+    "recovered": "302"
+  },
+  {
+    "country": "DRC",
+    "cases": " DRC",
+    "death": "March 22, 2020",
+    "recovered": "591"
+  },
+  {
+    "country": "Norway",
+    "cases": " Norway",
+    "death": "March 14, 2020",
+    "recovered": "436"
+  },
+  {
+    "country": "Somalia",
+    "cases": " Somalia",
+    "death": "April 9, 2020",
+    "recovered": "130"
+  },
+  {
+    "country": "Botswana",
+    "cases": " Botswana",
+    "death": "April 2, 2020",
+    "recovered": "40"
+  },
+  {
+    "country": "Eswatini",
+    "cases": " Eswatini",
+    "death": "April 17, 2020",
+    "recovered": "206"
+  },
+  {
+    "country": "Sri Lanka",
+    "cases": " Sri Lanka",
+    "death": "March 30, 2020",
+    "recovered": "204"
+  },
+  {
+    "country": "Uzbekistan",
+    "cases": " Uzbekistan",
+    "death": "March 28, 2020",
+    "recovered": "614"
+  },
+  {
+    "country": "Bahrain",
+    "cases": " Bahrain",
+    "death": "March 16, 2020",
+    "recovered": "352"
+  },
+  {
+    "country": "Cuba",
+    "cases": " Cuba",
+    "death": "March 18, 2020",
+    "recovered": "146"
+  },
+  {
+    "country": "Madagascar",
+    "cases": " Madagascar",
+    "death": "May 18, 2020",
+    "recovered": "261"
+  },
+  {
+    "country": "Namibia",
+    "cases": " Namibia",
+    "death": "July 11, 2020",
+    "recovered": "205"
+  },
+  {
+    "country": "Angola",
+    "cases": " Angola",
+    "death": "April 1, 2020",
+    "recovered": "405"
+  },
+  {
+    "country": "Mali",
+    "cases": " Mali",
+    "death": "April 3, 2020",
+    "recovered": "269"
+  },
+  {
+    "country": "Qatar",
+    "cases": " Qatar",
+    "death": "March 29, 2020",
+    "recovered": "245"
+  },
+  {
+    "country": "Mauritania",
+    "cases": " Mauritania",
+    "death": "April 4, 2020",
+    "recovered": "324"
+  },
+  {
+    "country": "Malta",
+    "cases": " Malta",
+    "death": "April 9, 2020",
+    "recovered": "219"
+  },
+  {
+    "country": "Uganda",
+    "cases": " Uganda",
+    "death": "July 24, 2020",
+    "recovered": "251"
+  },
+  {
+    "country": "Rwanda",
+    "cases": " Rwanda",
+    "death": "May 31, 2020",
+    "recovered": "92"
+  },
+  {
+    "country": "Belize",
+    "cases": " Belize",
+    "death": "April 7, 2020",
+    "recovered": "242"
+  },
+  {
+    "country": "Lesotho",
+    "cases": " Lesotho",
+    "death": "July 9, 2020",
+    "recovered": "50"
+  },
+  {
+    "country": "Cyprus",
+    "cases": " Cyprus",
+    "death": "March 25, 2020",
+    "recovered": "125"
+  },
+  {
+    "country": "Guyana",
+    "cases": " Guyana",
+    "death": "March 13, 2020",
+    "recovered": "164"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "cases": " Cote d'Ivoire",
+    "death": "April 3, 2020",
+    "recovered": "137"
+  },
+  {
+    "country": "Haiti",
+    "cases": " Haiti",
+    "death": "April 7, 2020",
+    "recovered": "236"
+  },
+  {
+    "country": "Thailand",
+    "cases": " Thailand",
+    "death": "March 2, 2020",
+    "recovered": "61"
+  },
+  {
+    "country": "Cabo Verde",
+    "cases": " Cabo Verde",
+    "death": "March 28, 2020",
+    "recovered": "113"
+  },
+  {
+    "country": "Guadeloupe",
+    "cases": " Guadeloupe",
+    "death": "March 28, 2020",
+    "recovered": "155"
+  },
+  {
+    "country": "Suriname",
+    "cases": " Suriname",
+    "death": "April 7, 2020",
+    "recovered": "121"
+  },
+  {
+    "country": "Bahamas",
+    "cases": " Bahamas",
+    "death": "April 3, 2020",
+    "recovered": "170"
+  },
+  {
+    "country": "Niger",
+    "cases": " Niger",
+    "death": "March 27, 2020",
+    "recovered": "102"
+  },
+  {
+    "country": "Nicaragua",
+    "cases": " Nicaragua",
+    "death": "March 29, 2020",
+    "recovered": "165"
+  },
+  {
+    "country": "Gambia",
+    "cases": " Gambia",
+    "death": "March 28, 2020",
+    "recovered": "124"
+  },
+  {
+    "country": "Mayotte",
+    "cases": " Mayotte",
+    "death": "April 2, 2020",
+    "recovered": "55"
+  },
+  {
+    "country": "Chad",
+    "cases": " Chad",
+    "death": "April 29, 2020",
+    "recovered": "104"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cases": " Trinidad and Tobago",
+    "death": "March 26, 2020",
+    "recovered": "126"
+  },
+  {
+    "country": "Burkina Faso",
+    "cases": " Burkina Faso",
+    "death": "March 19, 2020",
+    "recovered": "85"
+  },
+  {
+    "country": "Reunion",
+    "cases": " Reunion",
+    "death": "May 21, 2020",
+    "recovered": "42"
+  },
+  {
+    "country": "Comoros",
+    "cases": " Comoros",
+    "death": "May 5, 2020",
+    "recovered": "9"
+  },
+  {
+    "country": "Congo",
+    "cases": " Congo",
+    "death": "April 2, 2020",
+    "recovered": "100"
+  },
+  {
+    "country": "Guinea",
+    "cases": " Guinea",
+    "death": "April 16, 2020",
+    "recovered": "81"
+  },
+  {
+    "country": "Djibouti",
+    "cases": " Djibouti",
+    "death": "April 10, 2020",
+    "recovered": "61"
+  },
+  {
+    "country": "French Polynesia",
+    "cases": " French Polynesia",
+    "death": "September 11, 2020",
+    "recovered": "114"
+  },
+  {
+    "country": "Gabon",
+    "cases": " Gabon",
+    "death": "March 21, 2020",
+    "recovered": "64"
+  },
+  {
+    "country": "Guam",
+    "cases": " Guam",
+    "death": "March 23, 2020",
+    "recovered": "122"
+  },
+  {
+    "country": "Andorra",
+    "cases": " Andorra",
+    "death": "March 24, 2020",
+    "recovered": "84"
+  },
+  {
+    "country": "Togo",
+    "cases": " Togo",
+    "death": "March 30, 2020",
+    "recovered": "68"
+  },
+  {
+    "country": "South Sudan",
+    "cases": " South Sudan",
+    "death": "May 15, 2020",
+    "recovered": "63"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cases": " Equatorial Guinea",
+    "death": "April 23, 2020",
+    "recovered": "86"
+  },
+  {
+    "country": "Mongolia",
+    "cases": " Mongolia",
+    "death": "January 10, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Curaçao",
+    "cases": " Curaçao",
+    "death": "March 22, 2020",
+    "recovered": "14"
+  },
+  {
+    "country": "Papua New Guinea",
+    "cases": " Papua New Guinea",
+    "death": "July 30, 2020",
+    "recovered": "9"
+  },
+  {
+    "country": "French Guiana",
+    "cases": " French Guiana",
+    "death": "April 21, 2020",
+    "recovered": "71"
+  },
+  {
+    "country": "Benin",
+    "cases": " Benin",
+    "death": "April 7, 2020",
+    "recovered": "44"
+  },
+  {
+    "country": "Aruba",
+    "cases": " Aruba",
+    "death": "April 16, 2020",
+    "recovered": "49"
+  },
+  {
+    "country": "Gibraltar",
+    "cases": " Gibraltar",
+    "death": "November 13, 2020",
+    "recovered": "6"
+  },
+  {
+    "country": "Cambodia",
+    "cases": " Cambodia",
+    "death": "March 12, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Tajikistan",
+    "cases": " Tajikistan",
+    "death": "May 3, 2020",
+    "recovered": "89"
+  },
+  {
+    "country": "San Marino",
+    "cases": " San Marino",
+    "death": "March 8, 2020",
+    "recovered": "59"
+  },
+  {
+    "country": "Central African Republic",
+    "cases": " Central African Republic",
+    "death": "May 24, 2020",
+    "recovered": "63"
+  },
+  {
+    "country": "Liberia",
+    "cases": " Liberia",
+    "death": "April 5, 2020",
+    "recovered": "83"
+  },
+  {
+    "country": "Sierra Leone",
+    "cases": " Sierra Leone",
+    "death": "April 23, 2020",
+    "recovered": "76"
+  },
+  {
+    "country": "Saint Lucia",
+    "cases": " Saint Lucia",
+    "death": "November 11, 2020",
+    "recovered": "5"
+  },
+  {
+    "country": "Maldives",
+    "cases": " Maldives",
+    "death": "May 2, 2020",
+    "recovered": "48"
+  },
+  {
+    "country": "Martinique",
+    "cases": " Martinique",
+    "death": "March 26, 2020",
+    "recovered": "43"
+  },
+  {
+    "country": "Jersey",
+    "cases": " Jersey",
+    "death": "March 27, 2020",
+    "recovered": "42"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cases": " Guinea-Bissau",
+    "death": "April 27, 2020",
+    "recovered": "45"
+  },
+  {
+    "country": "Liechtenstein",
+    "cases": " Liechtenstein",
+    "death": "April 5, 2020",
+    "recovered": "33"
+  },
+  {
+    "country": "Barbados",
+    "cases": " Barbados",
+    "death": "April 7, 2020",
+    "recovered": "7"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "cases": " São Tomé and Príncipe",
+    "death": "May 1, 2020",
+    "recovered": "17"
+  },
+  {
+    "country": "Vietnam",
+    "cases": " Vietnam",
+    "death": "August 1, 2020",
+    "recovered": "35"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "cases": " Antigua and Barbuda",
+    "death": "April 9, 2020",
+    "recovered": "5"
+  },
+  {
+    "country": "Monaco",
+    "cases": " Monaco",
+    "death": "April 17, 2020",
+    "recovered": "3"
+  },
+  {
+    "country": "Singapore",
+    "cases": " Singapore",
+    "death": "March 22, 2020",
+    "recovered": "29"
+  },
+  {
+    "country": "Iceland",
+    "cases": " Iceland",
+    "death": "March 21, 2020",
+    "recovered": "29"
+  },
+  {
+    "country": "Isle of Man",
+    "cases": " Isle of Man",
+    "death": "April 3, 2020",
+    "recovered": "25"
+  },
+  {
+    "country": "Sint Maarten",
+    "cases": " Sint Maarten",
+    "death": "April 3, 2020",
+    "recovered": "27"
+  },
+  {
+    "country": "US Virgin Islands",
+    "cases": " US Virgin Islands",
+    "death": "April 7, 2020",
+    "recovered": "23"
+  },
+  {
+    "country": "Bermuda",
+    "cases": " Bermuda",
+    "death": "April 8, 2020",
+    "recovered": "10"
+  },
+  {
+    "country": "Seychelles",
+    "cases": " Seychelles",
+    "death": "January 5, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "New Zealand",
+    "cases": " New Zealand",
+    "death": "March 29, 2020",
+    "recovered": "25"
+  },
+  {
+    "country": "Tanzania",
+    "cases": " Tanzania",
+    "death": "April 1, 2020",
+    "recovered": "21"
+  },
+  {
+    "country": "Turks and Caicos",
+    "cases": " Turks and Caicos",
+    "death": "April 6, 2020",
+    "recovered": "6"
+  },
+  {
+    "country": "Mauritius",
+    "cases": " Mauritius",
+    "death": "March 25, 2020",
+    "recovered": "10"
+  },
+  {
+    "country": "Bonaire",
+    "cases": " Bonaire",
+    "death": "September 15, 2020",
+    "recovered": "3"
+  },
+  {
+    "country": "Guernsey",
+    "cases": " Guernsey",
+    "death": "April 1, 2020",
+    "recovered": "13"
+  },
+  {
+    "country": null,
+    "cases": "  Other",
+    "death": "February 20, 2020",
+    "recovered": "13"
+  },
+  {
+    "country": "Saint Martin",
+    "cases": " Saint Martin",
+    "death": "March 31, 2020",
+    "recovered": "12"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "cases": " Saint Vincent and the Grenadines",
+    "death": "January 17, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Eritrea",
+    "cases": " Eritrea",
+    "death": "December 23, 2020",
+    "recovered": "3"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "cases": " Wallis and Futuna",
+    "death": "March 21, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Burundi",
+    "cases": " Burundi",
+    "death": "April 20, 2020",
+    "recovered": "2"
+  },
+  {
+    "country": "Brunei",
+    "cases": " Brunei",
+    "death": "March 28, 2020",
+    "recovered": "3"
+  },
+  {
+    "country": "Timor-Leste",
+    "cases": " Timor-Leste",
+    "death": "April 9, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Cayman Islands",
+    "cases": " Cayman Islands",
+    "death": "March 16, 2020",
+    "recovered": "2"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "cases": " Northern Mariana Islands",
+    "death": "April 3, 2020",
+    "recovered": "2"
+  },
+  {
+    "country": "Fiji",
+    "cases": " Fiji",
+    "death": "August 1, 2020",
+    "recovered": "2"
+  },
+  {
+    "country": "British Virgin Islands",
+    "cases": " British Virgin Islands",
+    "death": "April 20, 2020",
+    "recovered": "1"
+  },
+  {
+    "country": "Montserrat",
+    "cases": " Montserrat",
+    "death": "April 26, 2020",
+    "recovered": "1"
+  },
+  {
+    "country": "Grenada",
+    "cases": " Grenada",
+    "death": "January 4, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Faroe Islands",
+    "cases": " Faroe Islands",
+    "death": "January 7, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Bhutan",
+    "cases": " Bhutan",
+    "death": "January 9, 2021",
+    "recovered": "0"
+  },
+  {
+    "country": "Saint Barthélemy",
+    "cases": " Saint Barthélemy",
+    "death": "March 14, 2021",
+    "recovered": "0"
+  }
+]
